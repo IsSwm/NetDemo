@@ -22,7 +22,7 @@ import okhttp3.OkHttpClient;
  * android:name=".app.MyApplication"
  */
 public class MyApplication extends Application {
-
+    
     private static Handler handler;
     private static int mainThread;
     private static Context context;
